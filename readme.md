@@ -1,1 +1,1 @@
-This is readme file for devops git push 
+This is readme file for git push 
